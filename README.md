@@ -6,6 +6,30 @@
 - [Featured Quotes](#featured-quotes)
 
 ## Featured Posts
+- How to Reverse Learned Helplessness ( [MindMap PDF](./posts/LearnedHelplessness.pdf?raw=1) | [Video](https://youtube.com/watch?v=1JpsH4ysJvs) )
+    
+    [![How to Reverse Learned Helplessness](https://i.ytimg.com/vi/1JpsH4ysJvs/default.jpg)](https://youtube.com/watch?v=1JpsH4ysJvs "How to Reverse Learned Helplessness")
+
+- Pygmalion effect: Why proving them right?
+    
+    [![Pygmalion effect: Why proving them right?](https://i.ytimg.com/vi/bP112WhhQcA/default.jpg)](https://youtube.com/watch?v=bP112WhhQcA "Pygmalion effect: Why proving them right?")
+
+- What Makes Us Cling to Sinking Ships?
+    
+    [![What Makes Us Cling to Sinking Ships?](https://i.ytimg.com/vi/keXb2kb04ho/default.jpg)](https://youtube.com/watch?v=keXb2kb04ho "What Makes Us Cling to Sinking Ships?")
+
+- Naive Realism and Minimal Self
+    
+    [![Naive Realism and Minimal Self](https://i.ytimg.com/vi/UNglXxQBKrE/default.jpg)](https://youtube.com/watch?v=UNglXxQBKrE "Naive Realism and Minimal Self")
+
+- Two Ways of Looking at Life
+    
+    [![Two Ways of Looking at Life](https://i.ytimg.com/vi/Mz1VMc5lRoE/default.jpg)](https://youtube.com/watch?v=Mz1VMc5lRoE "Two Ways of Looking at Life")
+
+- Do Cash Incentives Really Work?
+    
+    [![Do Cash Incentives Really Work?](https://i.ytimg.com/vi/DhmW9WeTlkw/default.jpg)](https://youtube.com/watch?v=DhmW9WeTlkw "Do Cash Incentives Really Work?")
+
 - What makes humans happy?
     
     [![What makes humans happy?](https://i.ytimg.com/vi/SmIFck0eI6w/default.jpg)](https://youtube.com/watch?v=SmIFck0eI6w "What makes humans happy?")
@@ -22,30 +46,6 @@
     
     [![Imagined Conversation with Steve Jobs - 2: Rivalry and Innovation](https://i.ytimg.com/vi/Jx9UxlzlO9U/default.jpg)](https://youtube.com/watch?v=Jx9UxlzlO9U "Imagined Conversation with Steve Jobs - 2: Rivalry and Innovation")
 
-- Imagined Conversations with Steve Jobs
-    
-    [![Imagined Conversations with Steve Jobs](https://i.ytimg.com/vi/HW7A5K2kRdU/default.jpg)](https://youtube.com/watch?v=HW7A5K2kRdU "Imagined Conversations with Steve Jobs")
-
-- The Wild Horse Effect: Let Go, and Let Be. Nothing truly yours, at the end of the day.
-    
-    [![The Wild Horse Effect: Let Go, and Let Be. Nothing truly yours, at the end of the day.](https://i.ytimg.com/vi/o_r3QcPpkls/default.jpg)](https://youtube.com/watch?v=o_r3QcPpkls "The Wild Horse Effect: Let Go, and Let Be. Nothing truly yours, at the end of the day.")
-
-- The Praise Trap: They Said You're Too Good for Your Job?
-    
-    [![The Praise Trap: They Said You're Too Good for Your Job?](https://i.ytimg.com/vi/jn0JNQ1RJLU/default.jpg)](https://youtube.com/watch?v=jn0JNQ1RJLU "The Praise Trap: They Said You're Too Good for Your Job?")
-
-- Feel Misunderstood? How to Spot & Counter Straw Man Fallacies
-    
-    [![Feel Misunderstood? How to Spot & Counter Straw Man Fallacies](https://i.ytimg.com/vi/YWwQHzIt1P4/default.jpg)](https://youtube.com/watch?v=YWwQHzIt1P4 "Feel Misunderstood? How to Spot & Counter Straw Man Fallacies")
-
-- The Hack to Understanding Human Behavior
-    
-    [![The Hack to Understanding Human Behavior](https://i.ytimg.com/vi/YPgsBkMisH0/default.jpg)](https://youtube.com/watch?v=YPgsBkMisH0 "The Hack to Understanding Human Behavior")
-
-- The Unexpected Key to Finding Startup Stars
-    
-    [![The Unexpected Key to Finding Startup Stars](https://i.ytimg.com/vi/9GB0Ob6NzIU/default.jpg)](https://youtube.com/watch?v=9GB0Ob6NzIU "The Unexpected Key to Finding Startup Stars")
-
 
 ## Featured Quotes
 - 3 days is an idea, 3 weeks is an attempt, 3 months is a habit, 3 years is a skill.
@@ -60,9 +60,21 @@
     
     [![Nelson Mandela: May your choices reflect your hopes, not your fears.](https://i.ytimg.com/vi/sPh_NnvZ8Ck/default.jpg)](https://youtube.com/shorts/sPh_NnvZ8Ck "Nelson Mandela: May your choices reflect your hopes, not your fears.")
 
+- If you want to fly, you have to give up what weighs you down.
+    
+    [![If you want to fly, you have to give up what weighs you down.](https://i.ytimg.com/vi/IBlMyKKQagA/default.jpg)](https://youtube.com/shorts/IBlMyKKQagA "If you want to fly, you have to give up what weighs you down.")
+
+- To be understood by everyone, how ordinary would you have to be?
+    
+    [![To be understood by everyone, how ordinary would you have to be?](https://i.ytimg.com/vi/oB_zhOnUVp0/default.jpg)](https://youtube.com/shorts/oB_zhOnUVp0 "To be understood by everyone, how ordinary would you have to be?")
+
 - If I hadn't have made them, I wouldn't have learned how to make things right.
     
     [![If I hadn't have made them, I wouldn't have learned how to make things right.](https://i.ytimg.com/vi/hvoVhGYJqcY/default.jpg)](https://youtube.com/shorts/hvoVhGYJqcY "If I hadn't have made them, I wouldn't have learned how to make things right.")
+
+- Even the darkest night will end and the sun will rise.
+    
+    [![Even the darkest night will end and the sun will rise.](https://i.ytimg.com/vi/iLTy8quA5RI/default.jpg)](https://youtube.com/shorts/iLTy8quA5RI "Even the darkest night will end and the sun will rise.")
 
 - Jack Ma: Today is tough. Tomorrow is tougher. The day after tomorrow is beautiful. But most people
     
@@ -75,18 +87,6 @@
 - Chaplin: Nothing is forever in this world, not even our troubles.
     
     [![Chaplin: Nothing is forever in this world, not even our troubles.](https://i.ytimg.com/vi/iEsRzVEVozQ/default.jpg)](https://youtube.com/shorts/iEsRzVEVozQ "Chaplin: Nothing is forever in this world, not even our troubles.")
-
-- If someone tells you, you can't, they're showing you their limits, not yours.
-    
-    [![If someone tells you, you can't, they're showing you their limits, not yours.](https://i.ytimg.com/vi/ZjJCgsJpH58/default.jpg)](https://youtube.com/shorts/ZjJCgsJpH58 "If someone tells you, you can't, they're showing you their limits, not yours.")
-
-- Dale Carnegie: Today is the tomorrow you worried about yesterday.
-    
-    [![Dale Carnegie: Today is the tomorrow you worried about yesterday.](https://i.ytimg.com/vi/yIVPl6haG_I/default.jpg)](https://youtube.com/shorts/yIVPl6haG_I "Dale Carnegie: Today is the tomorrow you worried about yesterday.")
-
-- Lao Tzu: If you are depressed you are living in the past. If you are anxious you are
-    
-    [![Lao Tzu: If you are depressed you are living in the past. If you are anxious you are](https://i.ytimg.com/vi/xIeb3Wctp-g/default.jpg)](https://youtube.com/shorts/xIeb3Wctp-g "Lao Tzu: If you are depressed you are living in the past. If you are anxious you are")
 
 # Acknowledgements
 
