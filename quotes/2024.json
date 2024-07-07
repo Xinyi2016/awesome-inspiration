@@ -90,6 +90,11 @@
     "link": "https://youtube.com/shorts/9ay4dFPCEjA"
   },
   {
+    "quote": "Will Rogers: If you find yourself in a hole, stop digging.",
+    "img": "https://i.ytimg.com/vi/z0yz74Kba5E/maxresdefault.jpg",
+    "link": "https://youtube.com/shorts/z0yz74Kba5E"
+  },
+  {
     "quote": "The only limit to our realization of tomorrow is our doubts of today.",
     "img": "https://i.ytimg.com/vi/SWmDjZS9mzo/maxresdefault.jpg",
     "link": "https://youtube.com/shorts/SWmDjZS9mzo"
@@ -140,6 +145,11 @@
     "link": "https://youtube.com/shorts/NaSDxbnC4sQ"
   },
   {
+    "quote": "Haruki Murakami: Pain is inevitable. Suffering is optional.",
+    "img": "https://i.ytimg.com/vi/_dfukfiBhbs/maxresdefault.jpg",
+    "link": "https://youtube.com/shorts/_dfukfiBhbs"
+  },
+  {
     "quote": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
     "img": "https://i.ytimg.com/vi/WRfcvdwhxFw/maxresdefault.jpg",
     "link": "https://youtube.com/shorts/WRfcvdwhxFw"
@@ -160,19 +170,9 @@
     "link": "https://youtube.com/shorts/hVEK3ldOtcQ"
   },
   {
-    "quote": "Haruki Murakami: Pain is inevitable. Suffering is optional.",
-    "img": "https://i.ytimg.com/vi/_dfukfiBhbs/maxresdefault.jpg",
-    "link": "https://youtube.com/shorts/_dfukfiBhbs"
-  },
-  {
     "quote": "Andrew Yeung: The future You is depending on the current You to keep the promises you made to yourse",
     "img": "https://i.ytimg.com/vi/OBvo3vKCTUw/maxresdefault.jpg",
     "link": "https://youtube.com/shorts/OBvo3vKCTUw"
-  },
-  {
-    "quote": "If you haven't found it yet, keep looking. Don't settle",
-    "img": "https://i.ytimg.com/vi/S_ABx7uZUXI/maxresdefault.jpg",
-    "link": "https://youtube.com/shorts/S_ABx7uZUXI"
   },
   {
     "quote": "Though nobody can go back and make a new beginning, anyone can start over and make a new ending.",
@@ -180,14 +180,19 @@
     "link": "https://youtube.com/shorts/Qnh95dNpUAE"
   },
   {
-    "quote": "May Sarton: We have to dare to be ourselves, however frightening or strange that self may prove to",
-    "img": "https://i.ytimg.com/vi/XTMFgNT6XF4/maxresdefault.jpg",
-    "link": "https://youtube.com/shorts/XTMFgNT6XF4"
+    "quote": "If you haven't found it yet, keep looking. Don't settle",
+    "img": "https://i.ytimg.com/vi/S_ABx7uZUXI/maxresdefault.jpg",
+    "link": "https://youtube.com/shorts/S_ABx7uZUXI"
   },
   {
     "quote": "You are braver than you believe, stronger than you seem, and smarter than you think.",
     "img": "https://i.ytimg.com/vi/N4cgkHEZuKI/maxresdefault.jpg",
     "link": "https://youtube.com/shorts/N4cgkHEZuKI"
+  },
+  {
+    "quote": "May Sarton: We have to dare to be ourselves, however frightening or strange that self may prove to",
+    "img": "https://i.ytimg.com/vi/XTMFgNT6XF4/maxresdefault.jpg",
+    "link": "https://youtube.com/shorts/XTMFgNT6XF4"
   },
   {
     "quote": "Always forgive your enemies; nothing annoys them so much.",
@@ -243,10 +248,5 @@
     "quote": "Keep your face always toward the sunshine and shadows will fall behind you.",
     "img": "https://i.ytimg.com/vi/KKfOco4mVAM/maxresdefault.jpg",
     "link": "https://youtube.com/shorts/KKfOco4mVAM"
-  },
-  {
-    "quote": "Will Rogers: If you find yourself in a hole, stop digging.",
-    "img": "https://i.ytimg.com/vi/z0yz74Kba5E/maxresdefault.jpg",
-    "link": "https://youtube.com/shorts/z0yz74Kba5E"
   }
 ]

@@ -6,6 +6,10 @@
 - [Featured Quotes](#featured-quotes)
 
 ## Featured Posts
+- How to Communicate Like a Tree? ( [MindMap PDF](./posts/CommunicateLikeTree.pdf?raw=1) | [Video](https://youtube.com/watch?v=U1a-9ykai4s) )
+    
+    [![How to Communicate Like a Tree?](https://i.ytimg.com/vi/U1a-9ykai4s/default.jpg)](https://youtube.com/watch?v=U1a-9ykai4s "How to Communicate Like a Tree?")
+
 - How to Reverse Learned Helplessness ( [MindMap PDF](./posts/LearnedHelplessness.pdf?raw=1) | [Video](https://youtube.com/watch?v=1JpsH4ysJvs) )
     
     [![How to Reverse Learned Helplessness](https://i.ytimg.com/vi/1JpsH4ysJvs/default.jpg)](https://youtube.com/watch?v=1JpsH4ysJvs "How to Reverse Learned Helplessness")
