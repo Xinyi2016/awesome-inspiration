@@ -6,6 +6,10 @@
 - [Featured Quotes](#featured-quotes)
 
 ## Featured Posts
+- How to Gain from Asymmetry? ( [MindMap PDF](./posts/AsymmetryOptionality.pdf?raw=1) | [Video](https://youtube.com/watch?v=6Zth_Xa_qbI) )
+    
+    [![How to Gain from Asymmetry?](https://i.ytimg.com/vi/6Zth_Xa_qbI/default.jpg)](https://youtube.com/watch?v=6Zth_Xa_qbI "How to Gain from Asymmetry?")
+
 - How to Communicate Like a Tree? ( [MindMap PDF](./posts/CommunicateLikeTree.pdf?raw=1) | [Video](https://youtube.com/watch?v=U1a-9ykai4s) )
     
     [![How to Communicate Like a Tree?](https://i.ytimg.com/vi/U1a-9ykai4s/default.jpg)](https://youtube.com/watch?v=U1a-9ykai4s "How to Communicate Like a Tree?")
@@ -41,14 +45,6 @@
 - Why Do People Migrate?
     
     [![Why Do People Migrate?](https://i.ytimg.com/vi/mv1JIfwvWCk/default.jpg)](https://youtube.com/watch?v=mv1JIfwvWCk "Why Do People Migrate?")
-
-- Can You Be Over-Motivated?
-    
-    [![Can You Be Over-Motivated?](https://i.ytimg.com/vi/oLfNofh0LqU/default.jpg)](https://youtube.com/watch?v=oLfNofh0LqU "Can You Be Over-Motivated?")
-
-- Imagined Conversation with Steve Jobs - 2: Rivalry and Innovation
-    
-    [![Imagined Conversation with Steve Jobs - 2: Rivalry and Innovation](https://i.ytimg.com/vi/Jx9UxlzlO9U/default.jpg)](https://youtube.com/watch?v=Jx9UxlzlO9U "Imagined Conversation with Steve Jobs - 2: Rivalry and Innovation")
 
 
 ## Featured Quotes
